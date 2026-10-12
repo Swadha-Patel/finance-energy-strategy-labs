@@ -1,0 +1,16 @@
+{
+  "revenue": 100.0,
+  "growth": 0.1,
+  "margin": 0.2,
+  "tax": 0.25,
+  "da_rate": 0.03,
+  "capex_rate": 0.05,
+  "nwc_rate": 0.1,
+  "years": 5,
+  "wacc": 0.1,
+  "terminal_growth": 0.025,
+  "terminal_roic": 0.15,
+  "cash": 15.0,
+  "debt": 30.0,
+  "shares": 10.0
+}

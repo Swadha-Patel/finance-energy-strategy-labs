@@ -1,0 +1,23 @@
+{
+  "efficient": {
+    "customers": 100,
+    "cac": 700,
+    "arpa": 110,
+    "margin": 0.82,
+    "churn": 0.015
+  },
+  "base": {
+    "customers": 100,
+    "cac": 900,
+    "arpa": 100,
+    "margin": 0.8,
+    "churn": 0.025
+  },
+  "stressed": {
+    "customers": 100,
+    "cac": 1400,
+    "arpa": 90,
+    "margin": 0.72,
+    "churn": 0.05
+  }
+}
